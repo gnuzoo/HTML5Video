@@ -1,5 +1,7 @@
 <?php if (!defined('PmWiki')) exit();
 /*
+hi bozo
+
 This file is HTML5Video.php; you
 can redistribute it and/or modify it under the
 terms of the GNU General Public License as
